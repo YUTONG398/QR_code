@@ -1,0 +1,44 @@
+
+
+.white-bg{
+    background-color: white;
+    margin: 80px auto;
+    max-width: 300px;
+    max-height:1500px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+img{
+    margin: auto;
+    height: 300px;
+    width: 300px; 
+    object-fit: cover;
+    border-radius: 10px;
+    display:block;
+}
+
+body{
+    margin: auto;
+    background-color: rgb(58, 214, 214);
+}
+
+.description{
+    background-color: white;
+}
+h1,p{
+    font-family: Cailbri, Geneva, Tahoma, sans-serif;
+    margin: 20px auto;
+    text-align: center; 
+    line-height: 1.5em;
+}
+
+h1{
+    font-size:larger;
+    
+}
+p{
+    font-size: small;
+    color: darkgray;
+    
+}
